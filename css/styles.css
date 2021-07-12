@@ -118,3 +118,16 @@ body {
   .profile-content-wrapper h1 {
     color: lightseagreen;
   }
+  .profile-image-wrapperz{
+image-orientation: from-image;
+background-size: 10%;
+
+  }
+.profile-image-wrapperz{
+width: 50%;
+height: 150px;
+object-fit: contain;
+
+
+
+}
