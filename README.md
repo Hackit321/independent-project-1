@@ -1,15 +1,15 @@
-# {Marks portfolio}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {Mark's portfolio}
+#### {Personal porfolio}, {2021}
+#### By **{LHTML and CSS}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is my personal portfolio website .It is built ith HTNL ,CSS and a small percentage of Jacascript.THe sites contains images about my hobies liking and programming knowledge.It also contains my personal project which I have worked on and thier links }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
 * in a simple
 * easy-to-understand
 * format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+{the website has twopages ,the Home page and the About page.Home page contains a list of hobbies and more under an ineractive background picture.About page contains details about me and the projects Ihave worked on}}
 ## Known Bugs
 No known bug
 ## Technologies Used
@@ -17,15 +17,11 @@ The website has been created using three languages
 >html 
 >css
 >small potion of javascript
-## 
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}n
+## contacts
+{in case of any issues contact  through mark.kirwa@student.moringaschool.com}
 ### License
 *{An MIT license has been used
-Copyright (c) {2021}**{List of contributors or company name}**
+Copyright (c) {2021}**{https://opensource.org/}**
   
-Licensing
-An open source license details how others can use your code. Adding a license to your repository is a good practice because it is how you state your intent.
+ An MIT license means your code is free to use by anyone and you are not liable (Rails and jQuery use an MIT license).
 
-MIT and GPL are the most common licenses. An MIT license means your code is free to use by anyone and you are not liable (Rails and jQuery use an MIT license). GPL also indicates free usage of the code but when used, the resulting work MUST be open source (Linux, Git and Wordpress use GPL).
-
-For additional details on choosing a license for your code, visit GitHub's Choose a License site.
